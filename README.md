@@ -198,7 +198,7 @@ User Wallet (Phantom / Backpack / Solflare)
 
 ## HELM Token
 
-HELM is the native utility token of the Helm platform, used for:
+HELM is the native test token of the Helm platform, used for:
 - **Market settlement payouts** — winning positions receive HELM
 - **Creator fee rewards** — UGC market creators earn HELM proportional to volume
 - **On-chain withdrawals** — creators claim accumulated HELM to their wallet
