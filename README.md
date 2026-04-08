@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".logo.png" alt="Helm" width="300" />
+<img src="./public/logo.png" alt="Helm" width="300" />
 
 <br /><br />
 
@@ -326,7 +326,7 @@ Helm is built by and for a community of forward-thinking traders. Join us:
 
 <div align="center">
 
-<img src=".token-logo.png" alt="HELM Token" width="64" />
+<img src="./public/token-logo.png" alt="HELM Token" width="64" />
 
 <br />
 
